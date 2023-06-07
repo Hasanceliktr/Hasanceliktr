@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Hasanceliktr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm @Hasanceliktr!
+
+👀 I'm interested in topics like Unity and Java.
+
+🌱 I'm currently learning Flutter and Dart.
+
+💞️ I'm looking to collaborate on Flutter or Dart projects.
+
+📫 You can reach me at hasancelikiletisim@gmail.com.
 
 <!---
 Hasanceliktr/Hasanceliktr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
