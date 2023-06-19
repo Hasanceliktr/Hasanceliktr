@@ -2,10 +2,6 @@
 
 👀 I'm interested in topics like Unity and Java.
 
-🌱 I'm currently learning Flutter and Dart.
-
-💞️ I'm looking to collaborate on Flutter or Dart projects.
-
 📫 You can reach me at hasancelikiletisim@gmail.com.
 
 <!---
